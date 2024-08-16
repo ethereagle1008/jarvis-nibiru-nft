@@ -19,7 +19,7 @@ This is a cusomized NFT based on cw721.
     nibid config chain-id nibiru-testnet-1 \
     nibid config broadcast-mode sync \
     nibid config # Prints your new config to verify correctness 
-
+ 
     `Mainnet config` \
     RPC_URL="https://rpc.nibiru.fi:443" \
     nibid config node $RPC_URL \
